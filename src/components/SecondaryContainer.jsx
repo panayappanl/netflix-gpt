@@ -13,8 +13,6 @@ const SecondaryContainer = () => {
     return null;
   }
 
-  console.log(popularMovies);
-
   return (
     <div className="bg-black">
       <div className="-mt-48 pl-12 relative z-20">
